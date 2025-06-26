@@ -41,6 +41,8 @@ Nếu cùng dòng có thêm `SecureNetflixId=...` vẫn được; script sẽ t�
 
 ---
 
+![image](https://github.com/user-attachments/assets/88640536-5a0b-443f-a366-b2c946c80ee9)
+
 ## 3. Chạy công cụ
 
 ```powershell
@@ -61,6 +63,9 @@ Sau khi chạy xong, bạn có:
 * `die_accounts.txt`   – các cookie hết hạn/không dùng được.
 
 ---
+
+![image](https://github.com/user-attachments/assets/ab180a84-598e-4841-a518-5a7b77f19eba)
+
 
 ## 4. Đóng gói thành file thực thi `.exe` (tuỳ chọn)
 
